@@ -16,6 +16,7 @@
     - Diabities Classification
     - Salary prediction Linear Regression
     - Email Spam Classification
+    - Plotting the Graphs with Matplotlib and Seaborn
 5. Deep Learning
     - Mnist (0 - 9) Digits dataset  Classification
     - German Traffic-Sign classification
