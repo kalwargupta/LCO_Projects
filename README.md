@@ -20,4 +20,5 @@
 5. Deep Learning
     - Mnist (0 - 9) Digits dataset  Classification
     - German Traffic-Sign classification
-6. Self Driving Car (Udacity model)
+6. Convolution Neural Network
+    - Self Driving Car (Udacity model)
